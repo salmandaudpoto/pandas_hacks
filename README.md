@@ -2,21 +2,30 @@
 This repo is build to get a grasp of pandas functions.
 In this repo I am publishing code, which contains 20 tips and tricks every datascientist must know. they are as following:
 
-How to find version number.
-Making dataframe.
-How to rename column.
-Using template data.
-Using your Own data.
-Reverse row order.
-Reverse column order.
-Selecting column by dtype.
-Convert string to number.
-reduce dataframe size
-Spltiing a string into multiple columns
-Aggregate by multiple groups/ functions
-Select specific row and columns
-Reshape multi-index Series
-Contnous data sai categorical mai convert kare
-Convert one set of values into anotherone
-transpose a wide dataframe
-Reshape the dataframe
+1- How to find version number.
+
+2- Making dataframe.
+
+3- How to rename column.
+
+4- Using template data.
+
+5- Using your Own data.
+
+6- Reverse row order.
+
+7- Reverse column order.
+
+8-Selecting column by dtype.
+
+9- Convert string to number.
+
+10- reduce dataframe size
+
+11- Spltiing a string into multiple columns
+
+12- Aggregate by multiple groups/ functions
+
+13- Select specific row and columns
+
+14- Reshape multi-index Series
